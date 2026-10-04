@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ocean-home",
+    "src": "/brands/ocean-home.webp",
+    "alt": "Ocean glassware arranged for dining at home",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/uploads/2019/01/HomeUse-edit.jpg",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-hospitality",
+    "src": "/brands/ocean-hospitality.webp",
+    "alt": "Ocean glassware in a hospitality setting",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/uploads/2018/12/Banner-for-Horeca-mobile-page.jpg",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-connexion",
+    "src": "/brands/ocean-connexion.webp",
+    "alt": "Ocean Connexion glassware collection",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/uploads/2020/02/banner-connexion-2020.jpg",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-special",
+    "src": "/brands/ocean-special.webp",
+    "alt": "A selection of Ocean glassware",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/uploads/2018/12/special-1.jpg",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-cocktail",
+    "src": "/brands/ocean-cocktail.webp",
+    "alt": "Ocean Connexion Cocktail glass",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/uploads/2018/11/1527C07-CONNEXION-COCKTAIL-1.jpg",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-gin",
+    "src": "/brands/ocean-gin.webp",
+    "alt": "Ocean Connexion Gin Cocktail glass",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/uploads/2020/02/Connexion-Gin-Cocktail.jpg",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-hiball",
+    "src": "/brands/ocean-hiball.webp",
+    "alt": "Ocean Super Strong Premier Hi Ball glass",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/uploads/2018/10/1S14410-SUPER-STRONG-PREMIER-Hi-Ball.jpg",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-logo",
+    "src": "/brands/ocean-logo.webp",
+    "alt": "Ocean",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/themes/ocean/assets/images/OceanLogo-2025.png",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "kohe-class",
+    "src": "/brands/kohe-class.webp",
+    "alt": "Kohe K-Class Pro 1000 flask; colour shown for reference",
+    "sourceUrl": "https://kohekgoc.com/uploads/product_Images/15e2ef85-4a36-4a47-99a3-b94254c927a0_Cola%201000%20ML.1.png.png",
+    "owner": "Kohe",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "kolorr-claro",
+    "src": "/brands/kolorr-claro.webp",
+    "alt": "Transparent Kolorr Claro storage basket with lid",
+    "sourceUrl": "https://kolorr.com/cdn/shop/files/file_-_2024-10-28T230341.731_f997f295-8622-4efd-b2d8-c3a4075dbd34.jpg?v=1731925900&width=1300",
+    "owner": "Kolorr",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "kolorr-lifestyle",
+    "src": "/brands/kolorr-lifestyle.webp",
+    "alt": "Kolorr Claro baskets used for household storage",
+    "sourceUrl": "https://kolorr.com/cdn/shop/files/PET_Baskets_with_lid_11L_Pack_of_6_-_Trasparent-02_723c6ceb-97c3-4f16-87fa-6b1ed8799ab1.jpg?v=1731925900&width=1300",
+    "owner": "Kolorr",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "ocean-identity",
+    "src": "/brands/ocean-identity.webp",
+    "alt": "Ocean",
+    "sourceUrl": "https://www.ocean-glassware.com/wp-content/themes/ocean/assets/images/OceanLogo.png",
+    "owner": "Ocean",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "kolorr-identity",
+    "src": "/brands/kolorr-identity.webp",
+    "alt": "Kolorr",
+    "sourceUrl": "https://kolorr.com/cdn/shop/files/Kolorr_Logo_TM_e534fa98-9165-4ba8-8eb2-a3dcee1d99a6.png?v=1732692175&width=544",
+    "owner": "Kolorr",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "kohe-identity",
+    "src": "/brands/kohe-identity.webp",
+    "alt": "Kohe",
+    "sourceUrl": "https://kohekgoc.com/images/vector_smart_object_8.png",
+    "owner": "Kohe",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  },
+  {
+    "id": "kohe-class-750",
+    "src": "/brands/kohe-class-750.webp",
+    "alt": "Kohe K-Class Pro 750 vacuum steel flask",
+    "sourceUrl": "https://kohekgoc.com/uploads/product_Images/73f068b0-c597-47d8-aeff-c79f27457d18_Cola%20750%20ML%203.png.png",
+    "owner": "Kohe",
+    "permission": "owner-confirmed",
+    "permissionDate": "2026-10-03"
+  }
+]

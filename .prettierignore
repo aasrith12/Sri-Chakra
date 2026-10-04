@@ -1,0 +1,12 @@
+node_modules
+.next
+public
+docs/research
+docs/screenshots
+package-lock.json
+next-env.d.ts
+test-results
+playwright-report
+out
+.next-pages
+.local-tools
